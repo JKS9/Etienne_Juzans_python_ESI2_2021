@@ -1,0 +1,5 @@
+print("Exo 5 :")
+string = input("mots séparer par une virgule :")
+result = string.split(",")
+result.sort()
+print(result)
